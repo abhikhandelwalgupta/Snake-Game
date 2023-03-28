@@ -61,7 +61,7 @@ body {
     text-align: center;
 }
 
-@media screen and (max-width:980px)  {
+@media screen and (max-width:800px)  {
     .wrapper {
         height: 115vmin;
         width: 90vw;
